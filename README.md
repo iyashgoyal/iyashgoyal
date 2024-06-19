@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **work.yashgoyal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xdPd5-qw0BvueFbnHfJiEzS5HBIcW2-W/view?usp=sharing](https://drive.google.com/file/d/1xdPd5-qw0BvueFbnHfJiEzS5HBIcW2-W/view?usp=sharing)
+- 📄 Know about my experiences [RESUME.pdf](https://drive.google.com/file/d/1xdPd5-qw0BvueFbnHfJiEzS5HBIcW2-W/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring new technologies**
 
