@@ -25,8 +25,9 @@
 
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,html,css,tailwind,git,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,javascript,express,mongodb,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,html,css,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,javascript,express,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vscode" /><br>
 </div>
 <br>
 <br>
